@@ -45,6 +45,6 @@ const SortSelector = ({ onSelectSortOrder, sortOrder }: Props) => {
       </MenuList>
     </Menu>
   );
-};
+}; //to build the app shift+ctrl +p
 
 export default SortSelector;
